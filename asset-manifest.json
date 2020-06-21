@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Food-Recipe/static/css/main.274f0c1f.chunk.css",
+    "main.js": "/React-Food-Recipe/static/js/main.1b02cced.chunk.js",
+    "main.js.map": "/React-Food-Recipe/static/js/main.1b02cced.chunk.js.map",
+    "runtime-main.js": "/React-Food-Recipe/static/js/runtime-main.c8518eb0.js",
+    "runtime-main.js.map": "/React-Food-Recipe/static/js/runtime-main.c8518eb0.js.map",
+    "static/js/2.0ef46cd5.chunk.js": "/React-Food-Recipe/static/js/2.0ef46cd5.chunk.js",
+    "static/js/2.0ef46cd5.chunk.js.map": "/React-Food-Recipe/static/js/2.0ef46cd5.chunk.js.map",
+    "index.html": "/React-Food-Recipe/index.html",
+    "precache-manifest.7bc755bbc1b7bf0fe4b8519ffdc0a9a1.js": "/React-Food-Recipe/precache-manifest.7bc755bbc1b7bf0fe4b8519ffdc0a9a1.js",
+    "service-worker.js": "/React-Food-Recipe/service-worker.js",
+    "static/css/main.274f0c1f.chunk.css.map": "/React-Food-Recipe/static/css/main.274f0c1f.chunk.css.map",
+    "static/js/2.0ef46cd5.chunk.js.LICENSE.txt": "/React-Food-Recipe/static/js/2.0ef46cd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8518eb0.js",
+    "static/js/2.0ef46cd5.chunk.js",
+    "static/css/main.274f0c1f.chunk.css",
+    "static/js/main.1b02cced.chunk.js"
+  ]
+}
